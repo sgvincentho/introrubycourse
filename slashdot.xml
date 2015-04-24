@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-04-23T06:48:13+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://idle.slashdot.org/story/15/04/22/2331234/ancient-hangover-cure-discovered-in-greek-texts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://apple.slashdot.org/story/15/04/22/2324215/apple-offers-expedited-apple-watch-order-lottery-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/22/2149253/house-bill-slashes-research-critical-to-cybersecurity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/22/2146207/facebooks-hello-tells-you-whos-calling-before-you-pick-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/22/2138210/chinese-scientists-claim-to-have-genetically-modified-human-embryos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/22/2054257/swallowing-your-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/22/2045250/bill-to-require-vaccination-of-children-advances-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/22/1915217/yahoo-called-its-layoffs-a-remix-dont-do-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/22/1645226/new-javascript-attack-lets-websites-spy-on-the-cpus-cache?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/22/1913251/gcc-51-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/22/199208/google-launches-project-fi-mobile-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/22/1643201/mcconnell-introduces-bill-to-extend-nsa-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/22/1634212/virtual-reality-games-can-improve-memory-retention-of-safety-instructions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/22/160258/intel-compute-stick-pc-over-hdmi-dongle-launched-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/22/156222/nasa-teams-scientific-experts-to-find-life-on-exoplanets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://idle.slashdot.org/story/15/04/22/2331234/ancient-hangover-cure-discovered-in-greek-texts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ancient Hangover Cure Discovered In Greek Texts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sJEXQEYzJI0/ancient-hangover-cure-discovered-in-greek-texts</link>
+<description>An anonymous reader writes with good news for people looking for an old cure for an old problem. Trying to ease a bad hangover? Wearing a necklace made from the leaves of a shrub called Alexandrian laurel would do the job, according to a newly translated Egyptian papyrus. The "drunken headache cure" appears in a 1,900-year-old text written in Greek and was discovered during the ongoing effort to translate more than half a million scraps of papyrus known as the Oxyrhynchus Papyri. Housed at Oxford University's Sackler Library, the enormous collection of texts contains lost gospels, works by Sophocles and other Greek authors, public and personal records and medical treatises dating from the first century AD to the sixth century A.D.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ancient+Hangover+Cure+Discovered+In+Greek+Texts%3A+http%3A%2F%2Fbit.ly%2F1GkRWB6"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fidle.slashdot.org%2Fstory%2F15%2F04%2F22%2F2331234%2Fancient-hangover-cure-discovered-in-greek-texts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://idle.slashdot.org/story/15/04/22/2331234/ancient-hangover-cure-discovered-in-greek-texts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://idle.slashdot.org/story/15/04/22/2331234/ancient-hangover-cure-discovered-in-greek-texts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300855&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sJEXQEYzJI0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-23T04:29:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>adjusting-your-humors</slash:department>
+<slash:section>idle</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,24,10,7,4,2,0</slash:hit_parade>
+<feedburner:origLink>http://idle.slashdot.org/story/15/04/22/2331234/ancient-hangover-cure-discovered-in-greek-texts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://apple.slashdot.org/story/15/04/22/2324215/apple-offers-expedited-apple-watch-order-lottery-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Offers Expedited Apple Watch Order Lottery To Developers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0lZWIVeX7Qs/apple-offers-expedited-apple-watch-order-lottery-to-developers</link>
+<description>An anonymous reader writes: Apple is sending out invites to random registered developers, giving them the chance to buy an Apple Watch with guaranteed delivery by the end of the month. "Special Opportunity for an Expedited Apple Watch Order," the invite email states. "We want to help give Apple developers the opportunity to test their WatchKit apps on Apple Watch as soon as it is available. You have the chance to purchase one (1) Apple Watch Sport with 42mm Silver Aluminum Case and Blue Sport Band that's guaranteed to ship by April 28, 2015."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Offers+Expedited+Apple+Watch+Order+Lottery+To+Developers%3A+http%3A%2F%2Fbit.ly%2F1G8Z9ih"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fapple.slashdot.org%2Fstory%2F15%2F04%2F22%2F2324215%2Fapple-offers-expedited-apple-watch-order-lottery-to-developers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://apple.slashdot.org/story/15/04/22/2324215/apple-offers-expedited-apple-watch-order-lottery-to-developers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/15/04/22/2324215/apple-offers-expedited-apple-watch-order-lottery-to-developers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0lZWIVeX7Qs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-23T02:12:00+00:00</dc:date>
+<dc:subject>apple</dc:subject>
+<slash:department>your-number's-up</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,36,29,16,3,1,0</slash:hit_parade>
+<feedburner:origLink>http://apple.slashdot.org/story/15/04/22/2324215/apple-offers-expedited-apple-watch-order-lottery-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/22/2149253/house-bill-slashes-research-critical-to-cybersecurity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>House Bill Slashes Research Critical To Cybersecurity</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lTQpGTJ5CM4/house-bill-slashes-research-critical-to-cybersecurity</link>
+<description>dcblogs writes: A U.S. House bill that will set the nation's basic research agenda for the next two years increases funding for computer science, but at the expense of other research areas. The funding bill, sponsored by Rep. Lamar Smith (R-Texas), the chair of the Science, Space and Technology Committee, hikes funding for computer science, but cuts &amp;mdash; almost by half &amp;mdash; social sciences funding, which includes the study of human behavior. Cybersecurity uses human behavior research because humans are often the weakest security link. Research funding social, behavioral and economic sciences will fall from $272 million to $150 million, a 45% decrease. The bill also takes a big cut out of geosciences research, which includes climate change study, from $1.3 billion to $1.2 billion, an 8% decrease. The insight into human behaviors that comes from the social science research, "is critical to understanding how best to design and implement hardware and software systems that are more secure and easier to use," wrote J. Strother Moore, the Computing Research Association chair and a professor of computer science at the University of Texas.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=House+Bill+Slashes+Research+Critical+To+Cybersecurity%3A+http%3A%2F%2Fbit.ly%2F1GjJ0cp"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F22%2F2149253%2Fhouse-bill-slashes-research-critical-to-cybersecurity%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/22/2149253/house-bill-slashes-research-critical-to-cybersecurity?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/22/2149253/house-bill-slashes-research-critical-to-cybersecurity?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300617&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lTQpGTJ5CM4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-23T00:15:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>do-more-with-less</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,94,63,54,15,8,6</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/22/2149253/house-bill-slashes-research-critical-to-cybersecurity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/22/2146207/facebooks-hello-tells-you-whos-calling-before-you-pick-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook's "Hello" Tells You Who's Calling Before You Pick Up</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/U_YLG4mB4mA/facebooks-hello-tells-you-whos-calling-before-you-pick-up</link>
+<description>Mark Wilson writes: When you receive a call you'll usually see the number of the caller, but this may not be helpful in identifying them before you decide whether to pick up. Facebook's answer to this problem is Hello. This new app comes from the Facebook Messenger team and aims to tell you more about the person getting in touch with you even if you don't have their number saved in your address book. Currently available for Android, the dialer app also allows for the blocking of calls from individuals.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook's+%22Hello%22+Tells+You+Who's+Calling+Before+You+Pick+Up%3A+http%3A%2F%2Fbit.ly%2F1HumzD1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F22%2F2146207%2Ffacebooks-hello-tells-you-whos-calling-before-you-pick-up%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/22/2146207/facebooks-hello-tells-you-whos-calling-before-you-pick-up?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/22/2146207/facebooks-hello-tells-you-whos-calling-before-you-pick-up?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300607&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/U_YLG4mB4mA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T23:31:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>who-is-it?</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,48,33,27,9,4,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/22/2146207/facebooks-hello-tells-you-whos-calling-before-you-pick-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/22/2138210/chinese-scientists-claim-to-have-genetically-modified-human-embryos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Chinese Scientists Claim To Have Genetically Modified Human Embryos</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/l9lg0k3y-ik/chinese-scientists-claim-to-have-genetically-modified-human-embryos</link>
+<description>Annanag writes: There were rumours &amp;mdash; but now it's been confirmed. Chinese scientists have attempted the ethically questionable feat of genetically modifying human embryos. The scientists try to head off ethical concerns by using 'non-viable' embryos, which cannot result in a live birth, obtained from local fertility clinics. The study is a landmark &amp;mdash; but also a cautionary tale.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Chinese+Scientists+Claim+To+Have+Genetically+Modified+Human+Embryos%3A+http%3A%2F%2Fbit.ly%2F1EdI0r0"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F22%2F2138210%2Fchinese-scientists-claim-to-have-genetically-modified-human-embryos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/22/2138210/chinese-scientists-claim-to-have-genetically-modified-human-embryos?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/22/2138210/chinese-scientists-claim-to-have-genetically-modified-human-embryos?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300591&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/l9lg0k3y-ik" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T22:50:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>super-babies</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>113</slash:comments>
+<slash:hit_parade>113,109,71,51,20,9,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/22/2138210/chinese-scientists-claim-to-have-genetically-modified-human-embryos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/22/2054257/swallowing-your-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Swallowing Your Password</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tSHaKdJaQRA/swallowing-your-password</link>
+<description>HughPickens.com writes: Amir Mizroch reports at the WSJ that a PayPal executive who works with engineers and developers to find and test new technologies, says that embeddable, injectable, and ingestible devices are the next wave in identification for mobile payments and other sensitive online interactions. Jonathon Leblanc says that identification of people will shift from "antiquated" external body methods like fingerprints, toward internal body functions like heartbeat and vein recognition, where embedded and ingestible devices will allow "natural body identification." Ingestible devices could be powered by stomach acid, which will run their batteries and could detect glucose levels and other unique internal features can use a person's body as a way to identify them and beam that data out. Leblanc made his remarks during a presentation called Kill all Passwords that he's recently started giving at various tech conferences in the U.S. and Europe, arguing that technology has taken a huge leap forward to "true integration with the human body." But the idea has its skeptics. What could possibly go wrong with a little implanted device that reads your vein patterns or your heart's unique activity or blood glucose levels writes AJ Vicens? "Wouldn't an insurance company love to use that information to decide that you had one too many donuts&amp;mdash;so it won't be covering that bypass surgery after all?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Swallowing+Your+Password%3A+http%3A%2F%2Fbit.ly%2F1GjnVz0"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F22%2F2054257%2Fswallowing-your-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/22/2054257/swallowing-your-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/22/2054257/swallowing-your-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300457&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tSHaKdJaQRA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T22:07:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>eat-and-login</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,77,62,51,13,8,3</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/22/2054257/swallowing-your-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/22/2045250/bill-to-require-vaccination-of-children-advances-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bill To Require Vaccination of Children Advances In California</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-sJWZRGmakw/bill-to-require-vaccination-of-children-advances-in-california</link>
+<description>mpicpp sends the latest news on California legislation that would eliminate exemptions for vaccinating school children. A bill that would require nearly all children in California to be vaccinated by eliminating "personal belief" exemptions advanced through the State Legislature on Wednesday, though it still has several hurdles to clear. If approved, California would become one of only three states that require all parents to vaccinate their children as a condition of going to school, unless there is a medical reason not to do so. Under the bill, introduced after a measles outbreak that began at Disneyland, parents who refuse vaccines for philosophical or religious reasons would have to educate their children at home. The legislation prompted a roiling debate in Sacramento, and last week hundreds of people protested at the Capitol, arguing that it infringed on their rights and that it would unfairly shut their children out of schools. Last Wednesday, the legislation stalled in the Senate Education Committee as lawmakers said they were concerned that too many students would be forced into home schooling. This Wednesday, however, the bill passed that committee after its authors tweaked it, adding amendments that would expand the definition of home schooling to allow multiple families to join together to teach their children or participate in independent study programs run by public school systems.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bill+To+Require+Vaccination+of+Children+Advances+In+California%3A+http%3A%2F%2Fbit.ly%2F1Hmojj5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F22%2F2045250%2Fbill-to-require-vaccination-of-children-advances-in-california%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/22/2045250/bill-to-require-vaccination-of-children-advances-in-california?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/22/2045250/bill-to-require-vaccination-of-children-advances-in-california?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300435&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-sJWZRGmakw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T21:23:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>won't-somebody-please-think-of-the-children?</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>337</slash:comments>
+<slash:hit_parade>337,325,216,176,58,34,24</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/22/2045250/bill-to-require-vaccination-of-children-advances-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/22/1915217/yahoo-called-its-layoffs-a-remix-dont-do-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Yahoo Called Its Layoffs a "Remix." Don't Do That.</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3tq5q_ZY5w8/yahoo-called-its-layoffs-a-remix-dont-do-that</link>
+<description>Nerval's Lobster writes: Yahoo CEO Marissa Mayer, in a conference call with reporters and analysts, referred to the net layoffs of 1,100 employees in the first quarter of 2015 as part of a 'remixing' of the company. A 'remix' is a term most often applied to songs, although it's also appropriate to use in the context of photographs, films, and artwork. CEOs rarely use it to describe something as momentous as a major enterprise's transition, especially if said transition involves layoffs of longtime employees, because it could potentially appear flippant to observers. If you run your own shop (no matter how large), it always pays to choose words as carefully as possible when referring to anything that affects your employees' lives and careers. Despite a renewed focus on mobile and an influx of skilled developers and engineers, Yahoo still struggles to define its place on the modern tech scene; that struggle is no more evident than in the company's most recent quarterly results, which included rising costs, reduced net income, and layoffs.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Yahoo+Called+Its+Layoffs+a+%22Remix.%22+Don't+Do+That.%3A+http%3A%2F%2Fbit.ly%2F1Jv9DeQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F22%2F1915217%2Fyahoo-called-its-layoffs-a-remix-dont-do-that%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/22/1915217/yahoo-called-its-layoffs-a-remix-dont-do-that?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/22/1915217/yahoo-called-its-layoffs-a-remix-dont-do-that?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300219&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3tq5q_ZY5w8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T20:41:00+00:00</dc:date>
+<dc:subject>yahoo</dc:subject>
+<slash:department>what-to-do-and-what-not-to-do</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,143,93,75,24,13,5</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/22/1915217/yahoo-called-its-layoffs-a-remix-dont-do-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/22/1645226/new-javascript-attack-lets-websites-spy-on-the-cpus-cache?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Javascript Attack Lets Websites Spy On the CPU's Cache</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/F-k7o9wdWJ0/new-javascript-attack-lets-websites-spy-on-the-cpus-cache</link>
+<description>An anonymous reader writes: Bruce Upbin at Forbes reports on a new and insidious way for a malicious website to spy on a computer. Any computer running a late-model Intel microprocessor and a Web browser using HTML5 (i.e., 80% of all PCs in the world) is vulnerable to this attack. The exploit, which the researchers are calling "the spy in the sandbox," is a form of side-channel attack. Side channel attacks were previously used to break into cars, steal encryption keys and ride the subway for free, but this is the first time they're targeted at innocent web users. The attack requires little in the way of cost or time on the part of the attacker; there's nothing to install and no need to break into hardened systems. All a hacker has to do is lure a victim to an untrusted web page with content controlled by the attacker.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Javascript+Attack+Lets+Websites+Spy+On+the+CPU's+Cache%3A+http%3A%2F%2Fbit.ly%2F1GiYBJo"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F22%2F1645226%2Fnew-javascript-attack-lets-websites-spy-on-the-cpus-cache%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/22/1645226/new-javascript-attack-lets-websites-spy-on-the-cpus-cache?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/22/1645226/new-javascript-attack-lets-websites-spy-on-the-cpus-cache?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7299675&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/F-k7o9wdWJ0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T19:58:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>protect-ya-neck</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>101</slash:comments>
+<slash:hit_parade>101,100,67,57,22,9,5</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/22/1645226/new-javascript-attack-lets-websites-spy-on-the-cpus-cache?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/22/1913251/gcc-51-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>GCC 5.1 Released</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PcTlOHPecVM/gcc-51-released</link>
+<description>kthreadd writes: Version 5.1 of GCC, the primary free software compiler for GNU and other operating systems, has been released. Version 5 includes many changes from the 4.x series. Starting with this release the default compiler mode for C is gnu11 instead of the older gnu89. New features include new compiler warnings, support for Cilk Plus. There is a new attribute no_reorder which prevents reordering of selected symbols against other such symbols or inline assembler, enabling link-time optimization of the Linux kernel without having to use -fno-toplevel-reorder. Two new preprocessor directives have also been added, __has_include and __has_include_next, to test the availability of headers. Also, there's a new C++ ABI due to changes to libstdc++. The old ABI is however still supported and can be enabled using a macro. Other changes include full support for C++14. Also the Fortran frontend has received some improvements and users will now be able to have colorized diagnostics, and the Go frontend has been updated to the Go 1.4.2 release.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=GCC+5.1+Released%3A+http%3A%2F%2Fbit.ly%2F1DBMNxK"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F22%2F1913251%2Fgcc-51-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/22/1913251/gcc-51-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/22/1913251/gcc-51-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300217&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PcTlOHPecVM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T19:38:00+00:00</dc:date>
+<dc:subject>gnu</dc:subject>
+<slash:department>brand-new</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,46,30,27,7,4,3</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/22/1913251/gcc-51-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/22/199208/google-launches-project-fi-mobile-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Launches Project Fi Mobile Phone Service</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/suXFW6TTQcQ/google-launches-project-fi-mobile-phone-service</link>
+<description>An anonymous reader writes: Google unveiled today a new cell phone service called Project Fi. It offers the same basic functionality as traditional wireless carriers, such as voice, text and Internet access, but at a lower price than most common plans. From the article: "Google hopes to stand out by changing the way it charges customers. Typically, smartphone owners pay wireless carriers like AT&amp;amp;T and Verizon a bulk rate for a certain amount of data. Google says it will let customers pay for only what data they use on their phones, from doing things like making calls, listening to music and using apps, potentially saving them significant amounts of money. For now, the program is invite-only and will only be available on Google's Nexus 6 smartphone."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Launches+Project+Fi+Mobile+Phone+Service%3A+http%3A%2F%2Fbit.ly%2F1d0VFHy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F22%2F199208%2Fgoogle-launches-project-fi-mobile-phone-service%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/22/199208/google-launches-project-fi-mobile-phone-service?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/22/199208/google-launches-project-fi-mobile-phone-service?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7300185&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/suXFW6TTQcQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T19:16:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>new-carrier-in-town</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>92</slash:comments>
+<slash:hit_parade>92,91,64,52,14,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/22/199208/google-launches-project-fi-mobile-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/22/1643201/mcconnell-introduces-bill-to-extend-nsa-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>McConnell Introduces Bill To Extend NSA Surveillance</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EoJx1Mg7N8w/mcconnell-introduces-bill-to-extend-nsa-surveillance</link>
+<description>jriding sends word that the majority leader of the U.S. Senate has introduced a bill that would extend the surveillance provisions of the Patriot Act until 2020: Senate Majority Leader Mitch McConnell introduced a bill Tuesday night to extend through 2020 a controversial surveillance authority under the Patriot Act. The move comes as a bipartisan group of lawmakers in both chambers is preparing legislation to scale back the government's spying powers under Section 215 of the Patriot Act. It puts McConnell (R-Ky.) and Senate Intelligence Committee Chairman Richard Burr (R-N.C.), the bill&amp;rsquo;s co-sponsor, squarely on the side of advocates of the National Security Agency&amp;rsquo;s continued ability to collect millions of Americans&amp;rsquo; phone records each day in the hunt for clues of terrorist activity.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=McConnell+Introduces+Bill+To+Extend+NSA+Surveillance%3A+http%3A%2F%2Fbit.ly%2F1bjpSk1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F22%2F1643201%2Fmcconnell-introduces-bill-to-extend-nsa-surveillance%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/22/1643201/mcconnell-introduces-bill-to-extend-nsa-surveillance?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/22/1643201/mcconnell-introduces-bill-to-extend-nsa-surveillance?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7299663&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EoJx1Mg7N8w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T18:34:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>lets-see-what-you're-doing</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>174</slash:comments>
+<slash:hit_parade>174,167,95,71,25,18,11</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/22/1643201/mcconnell-introduces-bill-to-extend-nsa-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/22/1634212/virtual-reality-games-can-improve-memory-retention-of-safety-instructions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Virtual Reality Games Can Improve Memory Retention of Safety Instructions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1CWtZntgrYk/virtual-reality-games-can-improve-memory-retention-of-safety-instructions</link>
+<description>vrml writes: Using a virtual reality (VR) headset to experience risky situations as immersive 3D games improves memory retention of passenger safety instructions, according to research published in the IEEE Transactions on Visualization and Computer Graphics, and illustrated by a YouTube video. Researchers recruited occasional flyers: half of them played a VR gaming experience of an airliner water landing and evacuation, while the other half studied a real airline safety card. After one week, passengers who had studied the safety card suffered a significant loss of knowledge, while passengers who had played the VR game fully retained the safety knowledge gained. The research group has now made available its emergency water landing experience also for the Oculus Rift.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Virtual+Reality+Games+Can+Improve+Memory+Retention+of+Safety+Instructions%3A+http%3A%2F%2Fbit.ly%2F1EcmUJs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F22%2F1634212%2Fvirtual-reality-games-can-improve-memory-retention-of-safety-instructions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/22/1634212/virtual-reality-games-can-improve-memory-retention-of-safety-instructions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/22/1634212/virtual-reality-games-can-improve-memory-retention-of-safety-instructions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7299637&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1CWtZntgrYk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-22T17:52:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>don't-forget</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>34</slash:comments>
+<slash:hit_parade>34,34,26,22,6,2,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/22/1634212/virtual-reality-games-can-improve-memory-retention-of-safety-instructions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/22/160258/intel-compute-stick-pc-over-hdmi-dongle-launched-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel 'Compute Stick' PC-Over-HDMI Dongle Launched, Tested</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ii6qPBUmjK0/intel-compute-stick-pc-over-hdmi-dongle-launched-tested</link>
+<description>MojoKid writes: Intel has officially announced the availability of their Compute Stick HDMI dongle, and has lifted the embargo on early tests with the device. The Compute Stick is essentially a fully-functional, low-power, Atom-based system with memory, storage, and an OS, crammed into a dongle about 10cm long. There will initially be two compute sticks made available: one running Windows (model STCK1A32WFC) and another running Ubuntu (model STCK1A8LFC). The Windows 8.1 version of the Compute Stick is packing an Intel Atom Z3735F processor, with a single-channel of 2GB of DDR3L-1333 RAM and 32GB of internal storage, though out of the box only 19.2GB is usable. The Ubuntu version of the Compute Stick has as a similar CPU, but is packing only 1GB of RAM and 8GB of internal storage. All sticks have USB and MicroSD expansion capability. It doesn't burn through any benchmarks, but for multi-media playback, basic computing tasks, web browsing, HD video, or remote access, the Compute Stick has enough muscle to get the job done, and it's cheap, too: $99 &amp;mdash; $149.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+'Compute+Stick'+PC-Over-HDMI+Dongle+Launched%2C+Tested%3A+http%3A%2F%2Fbit.ly%2F1yQ4ZI5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F22%2F160258%2Fintel-compute-stick-pc-over-hdmi-dongle-launched-tested%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/22/160258/intel-compute-stick-pc-over-hdmi-dongle-launched-tested?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/22/160258/intel-compute-stick-pc-over-hdmi-dongle-launched-tested?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7299525&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ii6qPBUmjK0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-22T17:10:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>minimally-elegant-product-names</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,128,89,67,19,8,4</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/22/160258/intel-compute-stick-pc-over-hdmi-dongle-launched-tested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/22/156222/nasa-teams-scientific-experts-to-find-life-on-exoplanets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Teams Scientific Experts To Find Life On Exoplanets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jSY01hyHtHs/nasa-teams-scientific-experts-to-find-life-on-exoplanets</link>
+<description>coondoggie writes: As the amount of newly discovered planets and systems outside our solar system grows, NASA is assembling a virtual team of scientific experts to search for signs of life. The program, Nexus for Exoplanet System Science (NExSS) will cull the collective expertise from each of NASA's science communities, including earth scientists, planetary scientists, heliophysicists, and astrophysicists. They'll work with key universities to better analyze all manner of exoplanets, as well as how the planet stars and neighbor planets interact to support life.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Teams+Scientific+Experts+To+Find+Life+On+Exoplanets%3A+http%3A%2F%2Fbit.ly%2F1DAStIk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F22%2F156222%2Fnasa-teams-scientific-experts-to-find-life-on-exoplanets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/22/156222/nasa-teams-scientific-experts-to-find-life-on-exoplanets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/22/156222/nasa-teams-scientific-experts-to-find-life-on-exoplanets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7299287&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jSY01hyHtHs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-22T16:28:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>so-we-can-steal-their-oil</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,54,31,26,6,5,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/22/156222/nasa-teams-scientific-experts-to-find-life-on-exoplanets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
